@@ -1,0 +1,41 @@
+@import "globalstyle.css";
+
+h2{
+    background-color: white;
+    margin-top: 0;
+    padding: 10px;
+    font-style: italic;
+    color: rgb(3, 80, 80);
+}
+
+h3{
+    margin-top: 0;
+    padding: 10px;
+    font-style: italic;
+    color: rgb(3, 80, 80);
+}
+
+.blogs{
+    background-color: rgb(252, 246, 246);
+    padding: 1%;
+    margin-bottom: 5%;
+
+}
+
+.bts{
+    background-color: rgb(252, 246, 246);
+    padding: 1%;
+    margin-bottom: 5%;
+}
+
+.bookupdates{
+    background-color: rgb(252, 246, 246);
+    padding: 1%;
+    margin-bottom: 5%;
+}
+
+.rants{
+    background-color: rgb(252, 246, 246);
+    padding: 1%;
+    margin-bottom: 5%;
+}
